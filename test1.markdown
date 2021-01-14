@@ -36,7 +36,7 @@ title: Секретные чаты Telegram
 
 1. Из меню навигации.
 
-    ! [](imgs/create.jpg)
+! [](imgs/create.jpg)
 
 2. Из профиля контакта.
 
